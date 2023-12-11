@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammadt-mandiant
 - 👀 I’m interested in technology best practices such as DevOps practices.
 - 🌱 I’m currently learning DevOps, DevSecOps, Linax, Python scripting, and cloud technologies.
-- 💞️ I’m looking to collaborate on integration at Mandiant
+- 💞️ I’m looking to collaborate on integration at Google Cloud
 - 📫 Reach me @ tanjimulislam@google.com
 
 <!---
